@@ -1,12 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <title>Percobaan PHP</title>
+<title>Percobaan PHP</title>
 </head>
 <body>
-
-    <?php echo "<p>Hello Word<p>"; ?>
-    <!-- echo untuk mencetak hasil -->
-    
+<?php echo "<p>Hello Word</p>"; ?>
+<!-- echo untuk mencetak hasil -->
 </body>
 </html>
